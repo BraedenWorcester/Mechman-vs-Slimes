@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8d94c6b7a47cff4458545ef70fac54c3
+timeCreated: 1519764484
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Begok v15
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 74ee40c6784225346bd28a529429d6f3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
