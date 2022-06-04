@@ -1,6 +1,6 @@
 # Mechman vs Slimes
  
- This is a wave-based top down survival 2D shooter, where the player controls a robot (Mechman!) on treads with a variety of weaponry to use against slime enemies. 
+ This is a wave-based top down survival 2D shooter, where the player controls a robot (Mechman!) on treads with a variety of weaponry to use against ever increasing hordes of slime enemies. 
  
  # Brief Project History
  
